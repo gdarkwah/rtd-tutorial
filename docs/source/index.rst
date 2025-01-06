@@ -18,7 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
    api
+   usage
 
 Lumache hosts its documentation on Read the Docs.
